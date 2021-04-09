@@ -1,0 +1,144 @@
+.dot2,
+nav.navbar ul.nav > li > a:before,
+.navbar-search-box  .navbar-search-box-button .button-blue,
+.explore-now,
+header nav.navbar.navbar-fixed .menu-icon:hover span,
+header nav.navbar.navbar-fixed .menu-icon:hover span:before,
+header nav.navbar.navbar-fixed .menu-icon:hover span:after,
+.full-menu ul.full-nav li a:hover,.feature .feature-onworking-list .market-analysis-icon,
+.hover-div-blue:hover .member-2-img-back,
+.about-progress .progress-bar-blue .progress-bar,
+.portfolio_filter .cbp-l-filters-buttonCenter .cbp-filter-item:before,
+.news .nav-tabs>li.active .news-blue-box,
+.news .nav-tabs li:hover .news-blue-box,
+.resp-tab-active>.news-blue-box,
+.news .news-text-slider,
+.send-button:before,
+.digital-services,
+.main-slider-index2 .slider-btn-yellow:before,
+.main-slider-index4 .slider-btn-yellow:before,
+.index5-slider-text .slider-btn-index5:before,
+#about-us-1.six-section .section hr,.slider-btn,
+#area-main .tag-cloud li a:hover,
+.blog-reply a.btn-rep:hover,
+#area-main  .button
+{
+    background: #ff9f1c!important;
+
+}
+.blue-span,
+.hover-div-blue:hover .name-member,
+.pricing-boxes .pricing-box-center-text h1,
+.pricing-boxes .center-box-price .dollar,
+.news-blue-words,
+.office-location .address i,
+.office-location .phone i ,
+.office-location .envelope i,
+.pushmenu .push_nav > li > a:hover,
+.pushmenu .push_nav > li > a:focus,
+.pushmenu .push_nav > li.active > a,
+.blog_mew ul.category li a .date,
+.blue_color
+{
+    color: #ff9f1c !important;
+}
+.hover-div-blue:hover .img-hover-circal,
+.news .nav-tabs>li.active>a .news-blue-box,
+.news .nav-tabs li:hover .news-blue-box,
+.resp-tab-active>.news-blue-box{
+    border-color: #ff9f1c;
+}
+.default_divider_blue {
+    border-top-color: #ff9f1c!important;
+}
+.pricing-boxes .pricing-box-center svg{
+    fill:#ef233c;
+    stroke:#ef233c;
+}
+.dot1,
+.button-blue:before,
+.explore-now:before,
+.menu-icon span,
+.menu-icon span:before,
+.menu-icon span:after,
+.feature .feature-onworking-list .financial-advise-icon,
+.feature .feature-onworking-list .web-solution-icon,
+.hover-div-yellow:hover .member-1-img-back,
+.team-achievement,
+.pricing-box-center-btn,
+.news #news-text-slider .swiper-button-next i:hover,
+.news #news-text-slider .swiper-button-prev i:hover,
+.contact-us-button .send-button,
+.digital-services-btn:before,
+.main-slider-index4 .slider-btn:before,
+.main-slider-index2 .slider-btn:before,
+.main-slider-index2 .slider-btn-yellow,
+.home-main-index5 .menu-icon-index5 .menu-icon span,
+.home-main-index5 .menu-icon-index5 .menu-icon span:before,
+.home-main-index5 .menu-icon-index5 .menu-icon span:after,
+#area-main .tag-cloud li a,
+.blog-reply a.btn-rep,
+#area-main  .button:before
+
+{
+    background: #ef233c !important;
+}
+
+.yellow-span,
+.office-location .address:hover i,
+.office-location .phone:hover i ,
+.office-location .envelope:hover i,
+.navbar-default .navbar-nav>.active>a,
+.navbar-default .navbar-nav>.active>a:focus,
+.navbar-default .navbar-nav>.active>a:hover,
+.navbar-default ul li a:hover,
+header .scroll-nav  .navbar-search-box-icon .active i,
+.navbar .navbar-search-box-icon .search-icon i:hover,
+.navbar .navbar-search-box-icon .search-icon i:focus,
+.navbar .navbar-search-box-icon .search-icon i:active,
+.default-span-yellow,
+.tp-bullet.selected, .tp-bullet:hover,
+.hover-div-yellow:hover .name-member,
+.portfolio_filter .cbp-l-filters-buttonCenter .cbp-filter-item.cbp-filter-item-active,
+.team-achievement-data-index3 .num-inner-radius:hover h2,
+.news-work .index3-swiper .news-data:hover .news-heading a,
+.six-section-index3 .section:hover h2,
+.news .nav-tabs li>p>a:hover,
+.blog_mew ul.category li a:hover,
+.pink_color,
+.blog_mew .morepost-wrap2 .morepost:hover .fa-long-arrow-left,
+.morepost-wrap .morepost:hover .fa-long-arrow-left,
+.blog_mew .morepost-wrap2 .morepost:hover .fa-long-arrow-right,
+.morepost-wrap .morepost:hover .fa-long-arrow-right,
+.blog_mew .morepost-wrap2 a:hover,
+#area-main ul.blog-author li a :hover .fa,
+#area-main ul.blog-author li a:hover
+{
+    color: #ef233c !important;
+}
+
+
+.news .nav-tabs>li.active .news-padding,
+.news .nav-tabs>li.active .news-padding:focus,
+.news .nav-tabs>li.active .news-padding:hover,
+.hover-div-yellow:hover .img-hover-circal,
+.tp-bullet.selected, .tp-bullet:hover ,.pushmenu{
+    border-color:#ef233c !important;
+
+}
+
+
+.default_divider {
+    border-top-color: #ef233c;
+}
+@media screen and (max-width: 767px){
+    .news .nav-tabs>li.active>a{
+        border-color: #ef233c;
+
+    }
+}
+
+.news .tab-content .tab-pane:hover,
+.portfolio_filter .cbp-l-grid-mosaic-flat .cbp-caption-activeWrap {
+    background-color: rgba(239, 35, 60, 0.52);
+}
